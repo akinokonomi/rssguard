@@ -114,7 +114,7 @@ option(IS_FLATPAK_BUILD "Set to 'ON' when building RSS Guard with Flatpak." OFF)
 option(FORCE_BUNDLE_ICONS "Forcibly bundle icon themes into RSS Guard." OFF)
 
 # Import Qt libraries.
-set(QT6_MIN_VERSION 6.3.0)
+set(QT6_MIN_VERSION 6.2.4)
 set(QT5_MIN_VERSION 5.12.0)
 
 set(QT_COMPONENTS
